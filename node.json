@@ -1,0 +1,8 @@
+{
+	"run_list": ["recipe[main]"],
+	"user": {
+		"name": "brokantt",
+		"password": "$1$eU7KwXT0$vtTFCgBU.DzKes2OCuFpx0",
+		"ls_color": true
+	}
+}
